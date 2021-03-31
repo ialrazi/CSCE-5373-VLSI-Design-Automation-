@@ -1,0 +1,4 @@
+Area: 407520
+AR: 0.786 (1.27)
+Utilization: 92.07%
+Time: 35 seconds
